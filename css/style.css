@@ -44,3 +44,5 @@ ol li:before { content: counter(item) ". "; counter-increment: item; display; bl
 .tags {font-size: 13px; line-height: 35px; }
 .tags .tag { list-style: none; display: inline;  }
 .tags .count { font-size: 12px; color: #aaa; }
+
+.small li {font-size:.5em; margin: 1px 0 1px 0; }
